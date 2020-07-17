@@ -1,10 +1,10 @@
 import sys
 def default():
-    print("hello")
+    print("Hello")
 def cat():
-    print("meow")
+    print("Meow")
 def dog():
-    print('woof')
+    print('Woof')
 
 def main():
     if sys.argv[1]=='dog':
