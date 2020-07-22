@@ -1,0 +1,572 @@
+/* Base layout */
+
+
+position: absolute;
+width: 3972px;
+height: 2208px;
+
+background: #FFFFFF;
+
+
+/* Drawer */
+
+
+position: absolute;
+width: 751px;
+height: 2148px;
+
+background: #2A3045;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Back arrow in the drawer */
+
+
+position: absolute;
+width: 54px;
+height: 53px;
+
+background: #FFFFFF;
+
+
+/* Search section */
+
+
+position: absolute;
+width: 632px;
+height: 128px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Search */
+
+
+position: absolute;
+width: 271px;
+height: 92px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+
+color: #C4C4C4;
+
+
+
+/* icons8-search-500 3 */
+
+
+position: absolute;
+width: 98px;
+height: 96px;
+
+background: url(icons8-search-500.png);
+
+
+/* Arrow to promise */
+
+
+position: absolute;
+width: 35px;
+height: 53px;
+
+background: #FFFFFF;
+
+
+/* Slider arrow */
+
+
+position: absolute;
+width: 35px;
+height: 53px;
+
+background: #000000;
+
+
+/* Vector */
+
+
+position: absolute;
+width: 35px;
+height: 53px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+
+position: absolute;
+width: 35px;
+height: 53px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+
+position: absolute;
+width: 35px;
+height: 53px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+
+position: absolute;
+width: 35px;
+height: 53px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+
+position: absolute;
+width: 35px;
+height: 53px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+
+position: absolute;
+width: 35px;
+height: 53px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+
+position: absolute;
+width: 35px;
+height: 53px;
+
+background: #FFFFFF;
+
+
+/* Promises */
+
+
+position: absolute;
+width: 391px;
+height: 124px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 72px;
+line-height: 84px;
+
+color: #FFFFFF;
+
+
+
+/* Previous Govt. */
+
+
+position: absolute;
+width: 502px;
+height: 89px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 72px;
+line-height: 84px;
+
+color: #FFFFFF;
+
+
+
+/* Crime-Rates */
+
+
+position: absolute;
+width: 419px;
+height: 124px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 72px;
+line-height: 84px;
+
+color: #FFFFFF;
+
+
+
+/* Sources */
+
+
+position: absolute;
+width: 293px;
+height: 124px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 72px;
+line-height: 84px;
+
+color: #FFFFFF;
+
+
+
+/* Team */
+
+
+position: absolute;
+width: 293px;
+height: 124px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 72px;
+line-height: 84px;
+
+color: #FFFFFF;
+
+
+
+/* Infrastructure */
+
+
+position: absolute;
+width: 527px;
+height: 124px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 72px;
+line-height: 84px;
+
+color: #FFFFFF;
+
+
+
+/* Corruption */
+
+
+position: absolute;
+width: 527px;
+height: 124px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 72px;
+line-height: 84px;
+
+color: #FFFFFF;
+
+
+
+/* Socio -Economic Indicators */
+
+
+position: absolute;
+width: 419px;
+height: 402px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 72px;
+line-height: 84px;
+
+color: #FFFFFF;
+
+
+
+/* User rectangle */
+
+
+position: absolute;
+width: 266px;
+height: 128px;
+
+background: #2A3045;
+box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px 0px 0px 20px;
+
+
+/* Vector */
+
+
+position: absolute;
+width: 108px;
+height: 100px;
+
+background: #E5E5E5;
+
+
+/* face-24px 3 */
+
+
+position: relative;
+width: 24px;
+height: 24px;
+
+
+
+/* For Change */
+
+
+position: absolute;
+width: 544px;
+height: 122px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 96px;
+line-height: 100px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+text-shadow: 4px 4px 4px rgba(255, 255, 255, 0.25);
+
+
+/* Coming_soon 3 */
+
+
+position: absolute;
+width: 869px;
+height: 807px;
+
+background: url(Coming_soon.png);
+
+
+/* Jharkhand */
+
+
+position: absolute;
+width: 629px;
+height: 180px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 210px;
+/* or 219% */
+
+
+color: #000000;
+
+
+
+/* Socio-Economic indicators */
+
+
+position: absolute;
+width: 1347px;
+height: 111px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 72px;
+line-height: 84px;
+
+color: #000000;
+
+
+
+/* Divider line */
+
+
+position: absolute;
+width: 1829.1px;
+height: 0px;
+
+border: 1px solid #000000;
+transform: rotate(0.57deg);
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel */
+
+
+position: absolute;
+width: 2700px;
+height: 176px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 65px;
+/* or 135% */
+
+
+color: #000000;
+
+
+
+/* Education Grid */
+
+
+position: absolute;
+width: 508px;
+height: 434px;
+
+background: #C4C4C4;
+border-radius: 13px;
+
+
+/* Health-Care grid */
+
+
+position: absolute;
+width: 508px;
+height: 434px;
+
+background: #C4C4C4;
+border-radius: 13px;
+
+
+/* Gender-Equality grid */
+
+
+position: absolute;
+width: 508px;
+height: 434px;
+
+background: #C4C4C4;
+border-radius: 13px;
+
+
+/* Poverty grid */
+
+
+position: absolute;
+width: 508px;
+height: 434px;
+
+background: #C4C4C4;
+border-radius: 13px;
+
+
+/* Take Action Button */
+
+
+position: absolute;
+width: 723px;
+height: 167px;
+
+background: #374FA3;
+border-radius: 13px;
+
+
+/* Take action */
+
+
+position: absolute;
+width: 540px;
+height: 94px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 65px;
+/* or 68% */
+
+
+color: #FFFFFF;
+
+
+
+/* Education */
+
+
+position: absolute;
+width: 508px;
+height: 102px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 65px;
+/* or 102% */
+
+
+color: #000000;
+
+
+
+/* Health-care */
+
+
+position: absolute;
+width: 508px;
+height: 102px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 65px;
+/* or 102% */
+
+
+color: #000000;
+
+
+
+/* Gender Equality */
+
+
+position: absolute;
+width: 508px;
+height: 102px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 65px;
+/* or 102% */
+
+
+color: #000000;
+
+
+
+/* Poverty */
+
+
+position: absolute;
+width: 508px;
+height: 102px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 65px;
+/* or 102% */
+
+
+color: #000000;
